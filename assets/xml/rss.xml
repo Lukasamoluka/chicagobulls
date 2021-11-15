@@ -1,26 +1,26 @@
 <rss version="2.0">
     <channel>
         <title>Chicago bulls-news</title>
-        <link>home.html</link>
+        <link>https://lukasamoluka.github.io/chicagobulls/index.html</link>
         <description>See latest news about Chicago bulls</description>
         <item>
             <title>About</title>
-            <link>about.html</link>
+            <link>https://lukasamoluka.github.io/chicagobulls/assets/pages/about.html</link>
             <description>Read about Chicago bulls history and their achievements</description>
         </item>
         <item>
             <title>Legends</title>
-            <link>legends.html</link>
+            <link>https://lukasamoluka.github.io/chicagobulls/assets/pages/legends.html</link>
             <description>Read about Chicago bulls famous players</description>
         </item>
         <item>
             <title>About</title>
-            <link>gallery.html</link>
+            <link>https://lukasamoluka.github.io/chicagobulls/assets/pages/gallery.html</link>
             <description>Photos of some big moments in chicago bulls history and its legends</description>
         </item>
         <item>
             <title>Shop</title>
-            <link>shop.html</link>
+            <link>https://lukasamoluka.github.io/chicagobulls/assets/pages/shop.html</link>
             <description>Chicago bulls items for cheap</description>
         </item>
     </channel>
