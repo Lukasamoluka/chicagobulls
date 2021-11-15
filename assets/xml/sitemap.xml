@@ -1,36 +1,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>index.html</loc>
-        <lastmod>2021-10-19</lastmod>
+        <loc>https://lukasamoluka.github.io/chicagobulls/index.html</loc>
+        <lastmod>2021-11-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     <url>
-        <loc>legends.html</loc>
+        <loc>https://lukasamoluka.github.io/chicagobulls/assets/pages/legends.html</loc>
         <lastmod>2021-10-19</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>about.html</loc>
+        <loc>https://lukasamoluka.github.io/chicagobulls/assets/pages/about.html</loc>
         <lastmod>2021-10-19</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>gallery.html</loc>
-        <lastmod>2021-10-19</lastmod>
+        <loc>https://lukasamoluka.github.io/chicagobulls/assets/pages/gallery.html</loc>
+        <lastmod>2021-11-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>shop.html</loc>
-        <lastmod>2021-10-19</lastmod>
+        <loc>https://lukasamoluka.github.io/chicagobulls/assets/pages/shop.html</loc>
+        <lastmod>2021-11-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>author.html</loc>
+        <loc>https://lukasamoluka.github.io/chicagobulls/assets/pages/author.html</loc>
         <lastmod>2021-10-19</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
